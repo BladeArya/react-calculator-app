@@ -1,5 +1,6 @@
 # react-calculator-app
 A simple calculator made from react. It's a part of learning react.
+- Website - https://bladearya.github.io/react-calculator-app/
 
 # Steps
 - Create a react app "npx create-react-app {name_of_the_react_app}"
